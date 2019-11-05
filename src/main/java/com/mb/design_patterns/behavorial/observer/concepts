@@ -1,0 +1,7 @@
+#concepts
+one to many
+event handling
+pub/sub
+synchronous
+mvc
+Example : Observer, java.util.EventListener

@@ -1,0 +1,10 @@
+#concepts
+decoupling sender and receiver
+receiver contains reference to next receiver
+promotes loose coupling
+Example : Logger, Servlet.Filter 
+
+
+#pitfalls
+runtime configuration risk
+performance issues

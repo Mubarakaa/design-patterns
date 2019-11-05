@@ -1,0 +1,11 @@
+#concepts
+handles complex constructors
+large no. of parameters
+immutability
+Example : StringBuilder
+
+
+#pitfalls
+inner static class
+designed first
+complexity to client

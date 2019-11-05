@@ -1,0 +1,5 @@
+#concepts
+only one object created
+control of resource
+lazily loaded
+Example : Logger, Spring beans by default

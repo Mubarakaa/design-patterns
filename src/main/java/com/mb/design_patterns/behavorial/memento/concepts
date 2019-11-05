@@ -1,0 +1,10 @@
+#concepts
+restore objects to previous state
+rollback/undo
+shields complex internals
+Example : Date, Serializable
+
+
+#pitfalls
+large overhead
+exposing information

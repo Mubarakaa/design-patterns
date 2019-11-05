@@ -1,0 +1,16 @@
+#concepts
+make api easier to use
+reduce dependencies
+simplify interface for client
+refactory pattern 
+example : java.net.URL
+
+
+#design
+utilizes composition
+encompasses full life cycle of object 
+
+
+#pitfalls
+used to clean up code
+flat structure - no inheritance

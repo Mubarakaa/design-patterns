@@ -1,0 +1,11 @@
+#concepts
+typically avoids using new keyword
+uses Registry
+Example : object.clone()
+
+
+#pitfalls
+used with other pattern - registry
+shallow vs deep copy - more coding
+
+

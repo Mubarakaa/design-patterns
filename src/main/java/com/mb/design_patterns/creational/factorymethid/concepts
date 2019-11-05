@@ -1,0 +1,11 @@
+#concepts
+doesnt expose instantiation logic
+common interface
+specified by architecture, implemented by user
+Example: Calendar, NumberFormat
+adaptable to env very easily
+
+
+#pitfalls
+more code
+creation in subclasses

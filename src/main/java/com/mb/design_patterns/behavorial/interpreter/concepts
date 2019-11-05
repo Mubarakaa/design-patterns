@@ -1,0 +1,10 @@
+#concepts
+represent grammar
+interpret sentence
+Example : java.util.Pattern
+
+
+#pitfalls
+complexity
+class per rule
+

@@ -1,0 +1,15 @@
+#concepts
+encapsulate request as object
+object oriented callback
+often used for "undo" functionality
+Example : Runnable
+
+
+#design
+object per command
+execute method
+
+
+#pitfalls
+dependence on other patterns
+multiple commands

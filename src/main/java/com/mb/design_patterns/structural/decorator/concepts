@@ -1,0 +1,22 @@
+#concepts
+called wrapper
+add behavior without affecting others
+more than just inheritance
+single responsibility principle
+compose behavior dynamically
+example : java.io.InputStream , UIComponents
+
+
+#design
+inheritance based
+uses composition and inheritance (is-a, has-a)
+alternative to subclassing
+
+
+#pitfalls
+new class for every feature
+multiple little objects
+complex for clients
+
+
+good pattern if you dont want to modify base object

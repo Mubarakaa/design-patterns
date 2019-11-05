@@ -1,0 +1,16 @@
+#concepts
+wrap a real object in interface
+can add functionality - secuity, simplicity, remote 
+proxy called to access real objects
+Example : java.lang.reflex.Proxy, java.rmi.*
+
+
+
+#design
+interface based
+
+
+#pitfalls
+only have one proxy
+another abstraction layer
+

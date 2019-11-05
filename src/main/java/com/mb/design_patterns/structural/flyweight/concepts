@@ -1,0 +1,10 @@
+#concepts
+more efficient use of memory
+large no. of similar objects
+immutable
+Example : java.lang.String, Integer, Double, etc.
+
+
+#pitfalls
+complex pattern
+must understand factory pattern

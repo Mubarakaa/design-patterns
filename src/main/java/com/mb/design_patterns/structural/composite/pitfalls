@@ -1,0 +1,10 @@
+#pitfalls
+over simplify system
+difficult to restrict
+implementation can be costly
+
+
+#characteristics
+tree structure
+leaf and components same interface
+unity between objects

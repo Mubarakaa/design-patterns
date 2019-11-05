@@ -1,0 +1,16 @@
+#concepts
+traverse a container - list, map, etc
+underlying structure not exposed
+sequential
+Example : Iterator, Enumeration
+
+
+#design
+factory method based
+fail fast
+
+
+#pitfalls
+access to index needed
+unidirectional
+low speed/efficiency

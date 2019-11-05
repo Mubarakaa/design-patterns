@@ -1,0 +1,11 @@
+#concepts
+factory of factories
+factory of related objects
+common interface
+Example : DocumentBuilder
+
+
+#pitfalls
+complexity
+runtime switch
+pattern within a pattern
