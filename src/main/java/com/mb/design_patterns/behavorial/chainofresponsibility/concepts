@@ -8,3 +8,6 @@ Example : Logger, Servlet.Filter
 #pitfalls
 runtime configuration risk
 performance issues
+
+# Real life examples
+1. ATM dispense - 50, 100, 500 notes
